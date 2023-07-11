@@ -1,0 +1,19 @@
+.card-bg {
+  background: linear-gradient(to right, #000000, #333333);
+}
+.title {
+  font-family: "Roboto Serif", serif;
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.contact-link {
+  text-decoration: none;
+  color: white;
+}
+
+.contact-link:hover {
+  text-decoration: none;
+  color: grey;
+}

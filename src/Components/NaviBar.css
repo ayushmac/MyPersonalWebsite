@@ -1,0 +1,24 @@
+.navbar-fade-in {
+  opacity: 1;
+  transition: opacity 0.5s ease;
+}
+
+.navbar-fade-out {
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.5s ease;
+}
+
+.bg-body-tertiary {
+  background: linear-gradient(to bottom, #000000, #333333);
+  /* Add any other desired styles for the navbar */
+}
+
+.links {
+  font-family: "Roboto Serif", serif;
+  text-decoration: none;
+  margin-top: 5px;
+  margin-left: 20px;
+  padding-bottom: 20px;
+  color: white;
+}

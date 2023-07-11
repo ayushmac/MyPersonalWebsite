@@ -1,0 +1,35 @@
+#education-section {
+  background: linear-gradient(to bottom, #666666, #999999);
+  color: #8d8b8b;
+}
+
+.title {
+  font-family: "Roboto Serif", serif;
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 2rem;
+  text-decoration: underline;
+}
+
+.card-bg {
+  background-color: #222222;
+}
+
+.card-text {
+  color: #ffffff;
+}
+
+.education-list {
+  list-style-type: disc;
+  margin-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.education-list strong {
+  font-weight: bold;
+}
+
+.education-list p {
+  margin-bottom: 0.5rem;
+}
